@@ -1,0 +1,1 @@
+SELECT * FROM `projetolaravel`.`events` LIMIT 1000;
